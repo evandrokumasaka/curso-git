@@ -1,1 +1,6 @@
 teste
+- Estudar
+- Implementar
+- Vender
+- Receber
+- Se divertir
